@@ -23,8 +23,8 @@ Four repositories, four versions of that same question:
 
 ## 中文
 
-我做自动化交易系统，也拆它们。
-写的所有东西都围绕一个问题：**怎么判断 AI 产出的东西在骗你？**
+我用vibe-coding做自动化交易系统，学习研究并分拆它们。
+写的所有内容都围绕一个问题：**怎么判断 AI 产出的东西是不是在骗你？**
 
 四个仓库，就是这同一个问题的四个版本：
 
@@ -42,4 +42,4 @@ Four repositories, four versions of that same question:
 
 ## Contact
 
-- Email: 405471810@qq.com
+- Email: c405471810@gmail.com
